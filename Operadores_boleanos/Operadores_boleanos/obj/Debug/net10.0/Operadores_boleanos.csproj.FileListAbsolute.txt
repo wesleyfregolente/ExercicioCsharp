@@ -1,0 +1,14 @@
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\bin\Debug\net10.0\Operadores_boleanos.exe
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\bin\Debug\net10.0\Operadores_boleanos.deps.json
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\bin\Debug\net10.0\Operadores_boleanos.runtimeconfig.json
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\bin\Debug\net10.0\Operadores_boleanos.dll
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\bin\Debug\net10.0\Operadores_boleanos.pdb
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\obj\Debug\net10.0\Operadores_boleanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\obj\Debug\net10.0\Operadores_boleanos.AssemblyInfoInputs.cache
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\obj\Debug\net10.0\Operadores_boleanos.AssemblyInfo.cs
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\obj\Debug\net10.0\Operadores_boleanos.csproj.CoreCompileInputs.cache
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\obj\Debug\net10.0\Operadores_boleanos.dll
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\obj\Debug\net10.0\refint\Operadores_boleanos.dll
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\obj\Debug\net10.0\Operadores_boleanos.pdb
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\obj\Debug\net10.0\Operadores_boleanos.genruntimeconfig.cache
+C:\Users\37895537865\Desktop\C# Material\Operadores_boleanos\Operadores_boleanos\obj\Debug\net10.0\ref\Operadores_boleanos.dll
