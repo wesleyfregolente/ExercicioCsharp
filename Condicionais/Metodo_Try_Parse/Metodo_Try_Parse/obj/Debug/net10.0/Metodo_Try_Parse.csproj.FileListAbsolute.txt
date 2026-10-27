@@ -1,0 +1,14 @@
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\bin\Debug\net10.0\Metodo_Try_Parse.exe
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\bin\Debug\net10.0\Metodo_Try_Parse.deps.json
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\bin\Debug\net10.0\Metodo_Try_Parse.runtimeconfig.json
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\bin\Debug\net10.0\Metodo_Try_Parse.dll
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\bin\Debug\net10.0\Metodo_Try_Parse.pdb
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\obj\Debug\net10.0\Metodo_Try_Parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\obj\Debug\net10.0\Metodo_Try_Parse.AssemblyInfoInputs.cache
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\obj\Debug\net10.0\Metodo_Try_Parse.AssemblyInfo.cs
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\obj\Debug\net10.0\Metodo_Try_Parse.csproj.CoreCompileInputs.cache
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\obj\Debug\net10.0\Metodo_Try_Parse.dll
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\obj\Debug\net10.0\refint\Metodo_Try_Parse.dll
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\obj\Debug\net10.0\Metodo_Try_Parse.pdb
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\obj\Debug\net10.0\Metodo_Try_Parse.genruntimeconfig.cache
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Metodo_Try_Parse\Metodo_Try_Parse\obj\Debug\net10.0\ref\Metodo_Try_Parse.dll

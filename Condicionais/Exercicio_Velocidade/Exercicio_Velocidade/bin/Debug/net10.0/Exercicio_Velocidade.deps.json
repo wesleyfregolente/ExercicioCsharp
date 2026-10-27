@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Exercicio_Velocidade/1.0.0": {
+        "runtime": {
+          "Exercicio_Velocidade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Velocidade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

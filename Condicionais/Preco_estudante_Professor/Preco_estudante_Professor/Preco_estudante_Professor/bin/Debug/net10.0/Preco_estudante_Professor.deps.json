@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Preco_estudante_Professor/1.0.0": {
+        "runtime": {
+          "Preco_estudante_Professor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Preco_estudante_Professor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

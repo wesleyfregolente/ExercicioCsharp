@@ -1,0 +1,14 @@
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\bin\Debug\net10.0\Preco_estudante_Professor.exe
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\bin\Debug\net10.0\Preco_estudante_Professor.deps.json
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\bin\Debug\net10.0\Preco_estudante_Professor.runtimeconfig.json
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\bin\Debug\net10.0\Preco_estudante_Professor.dll
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\bin\Debug\net10.0\Preco_estudante_Professor.pdb
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\obj\Debug\net10.0\Preco_estudante_Professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\obj\Debug\net10.0\Preco_estudante_Professor.AssemblyInfoInputs.cache
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\obj\Debug\net10.0\Preco_estudante_Professor.AssemblyInfo.cs
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\obj\Debug\net10.0\Preco_estudante_Professor.csproj.CoreCompileInputs.cache
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\obj\Debug\net10.0\Preco_estudante_Professor.dll
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\obj\Debug\net10.0\refint\Preco_estudante_Professor.dll
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\obj\Debug\net10.0\Preco_estudante_Professor.pdb
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\obj\Debug\net10.0\Preco_estudante_Professor.genruntimeconfig.cache
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Preco_estudante_Professor\Preco_estudante_Professor\Preco_estudante_Professor\obj\Debug\net10.0\ref\Preco_estudante_Professor.dll

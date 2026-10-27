@@ -1,0 +1,14 @@
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\bin\Debug\net10.0\Exercicio_Velocidade.exe
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\bin\Debug\net10.0\Exercicio_Velocidade.deps.json
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\bin\Debug\net10.0\Exercicio_Velocidade.runtimeconfig.json
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\bin\Debug\net10.0\Exercicio_Velocidade.dll
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\bin\Debug\net10.0\Exercicio_Velocidade.pdb
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\obj\Debug\net10.0\Exercicio_Velocidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\obj\Debug\net10.0\Exercicio_Velocidade.AssemblyInfoInputs.cache
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\obj\Debug\net10.0\Exercicio_Velocidade.AssemblyInfo.cs
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\obj\Debug\net10.0\Exercicio_Velocidade.csproj.CoreCompileInputs.cache
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\obj\Debug\net10.0\Exercicio_Velocidade.dll
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\obj\Debug\net10.0\refint\Exercicio_Velocidade.dll
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\obj\Debug\net10.0\Exercicio_Velocidade.pdb
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\obj\Debug\net10.0\Exercicio_Velocidade.genruntimeconfig.cache
+C:\Users\37895537865\Desktop\C# Material\Condicionais\Velocidade\Exercicio_Velocidade\Exercicio_Velocidade\obj\Debug\net10.0\ref\Exercicio_Velocidade.dll
